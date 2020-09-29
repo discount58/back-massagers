@@ -2286,7 +2286,7 @@ theme.LibraryLoader = (function() {
     loaded: 'loaded'
   };
 
-  var cloudCdn = 'https://cdn.shopifycdn.net/shopifycloud/';
+  var cloudCdn = 'https://cdn.shopify.com/shopifycloud/';
 
   var libraries = {
     youtubeSdk: {
